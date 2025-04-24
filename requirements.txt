@@ -1,0 +1,6 @@
+diffusers==0.32.1
+numpy==1.24.3
+opencv_python==4.11.0.86
+Pillow==10.3.0
+torch==2.4.1+cu124
+transformers==4.48.1
