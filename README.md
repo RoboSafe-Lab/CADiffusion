@@ -42,28 +42,29 @@ conditions.
 ## Main Functions
 
 ### 1. Vehicle Generation (lane_car.py)
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="images/1.jpg" alt="1.jpg" style="max-width: 50%; height: auto;" />
-  <img src="car/1.png" alt="1.png" style="max-width: 50%; height: auto;" />
-</div>
+
+| Before | After |
+|:------:|:-----:|
+| <img src="images/1.jpg" alt="1.jpg" width="100%" /> | <img src="car/1.png" alt="1.png" width="100%" /> |
 
 ### 2. Weather Change (lane_environmental.py)
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="images/1.jpg" alt="Original" style="max-width: 50%; height: auto;" />
-  <img src="rainy/1_rainy.png" alt="Rainy" style="max-width: 50%; height: auto;" />
-</div>
+
+| Original | Rainy |
+|:--------:|:-----:|
+| <img src="images/1.jpg" alt="Original" width="100%" /> | <img src="rainy/1_rainy.png" alt="Rainy" width="100%" /> |
 
 ### 3. Poles Generation (lane_kengdao.py)
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="images/1.jpg" alt="Original" style="max-width: 50%; height: auto;" />
-  <img src="kengdao/processed_1.jpg" alt="Poles Generated" style="max-width: 50%; height: auto;" />
-</div>
+
+| Original | Poles Generated |
+|:--------:|:----------------:|
+| <img src="images/1.jpg" alt="Original" width="100%" /> | <img src="kengdao/processed_1.jpg" alt="Poles Generated" width="100%" /> |
 
 ### 4. Wear Generation (lane_mohu.py)
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="images/1.jpg" alt="Original" style="max-width: 50%; height: auto;" />
-  <img src="mosun/processed_1.jpg" alt="Wear Generated" style="max-width: 50%; height: auto;" />
-</div>
+
+| Original | Wear Generated |
+|:--------:|:---------------:|
+| <img src="images/1.jpg" alt="Original" width="100%" /> | <img src="mosun/processed_1.jpg" alt="Wear Generated" width="100%" /> |
+
 
 
 
