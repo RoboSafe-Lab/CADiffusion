@@ -43,8 +43,8 @@ conditions.
 
 ### 1. Vehicle Generation (lane_car.py)
 
-| Before | After |
-|:------:|:-----:|
+| Original |                     Vehicle                      |
+|:------:|:------------------------------------------------:|
 | <img src="images/1.jpg" alt="1.jpg" width="100%" /> | <img src="car/1.png" alt="1.png" width="100%" /> |
 
 ### 2. Weather Change (lane_environmental.py)
