@@ -42,14 +42,29 @@ conditions.
 ## Main Functions
 
 ### 1. Vehicle Generation (lane_car.py)
-![1.jpg](images%2F1.jpg) ![1.png](car%2F1.png)
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img src="images/1.jpg" alt="1.jpg" style="max-width: 50%; height: auto;" />
+  <img src="car/1.png" alt="1.png" style="max-width: 50%; height: auto;" />
+</div>
 
 ### 2. Weather Change (lane_environmental.py)
-![1.jpg](images%2F1.jpg) ![1_rainy.png](rainy%2F1_rainy.png)
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img src="images/1.jpg" alt="Original" style="max-width: 50%; height: auto;" />
+  <img src="rainy/1_rainy.png" alt="Rainy" style="max-width: 50%; height: auto;" />
+</div>
+
 ### 3. Poles Generation (lane_kengdao.py)
-![1.jpg](images%2F1.jpg) ![processed_1.jpg](kengdao%2Fprocessed_1.jpg)
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img src="images/1.jpg" alt="Original" style="max-width: 50%; height: auto;" />
+  <img src="kengdao/processed_1.jpg" alt="Poles Generated" style="max-width: 50%; height: auto;" />
+</div>
+
 ### 4. Wear Generation (lane_mohu.py)
-![1.jpg](images%2F1.jpg) ![processed_1.jpg](mosun%2Fprocessed_1.jpg)
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img src="images/1.jpg" alt="Original" style="max-width: 50%; height: auto;" />
+  <img src="mosun/processed_1.jpg" alt="Wear Generated" style="max-width: 50%; height: auto;" />
+</div>
+
 
 
 ## Install
